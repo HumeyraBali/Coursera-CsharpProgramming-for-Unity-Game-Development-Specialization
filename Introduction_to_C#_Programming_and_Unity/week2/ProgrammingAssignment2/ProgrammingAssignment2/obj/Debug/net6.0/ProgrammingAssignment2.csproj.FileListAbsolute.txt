@@ -1,0 +1,14 @@
+c:\Users\User\Desktop\ProgrammingAssignment2\ProgrammingAssignment2\bin\Debug\net6.0\ProgrammingAssignment2.exe
+c:\Users\User\Desktop\ProgrammingAssignment2\ProgrammingAssignment2\bin\Debug\net6.0\ProgrammingAssignment2.deps.json
+c:\Users\User\Desktop\ProgrammingAssignment2\ProgrammingAssignment2\bin\Debug\net6.0\ProgrammingAssignment2.runtimeconfig.json
+c:\Users\User\Desktop\ProgrammingAssignment2\ProgrammingAssignment2\bin\Debug\net6.0\ProgrammingAssignment2.dll
+c:\Users\User\Desktop\ProgrammingAssignment2\ProgrammingAssignment2\bin\Debug\net6.0\ProgrammingAssignment2.pdb
+c:\Users\User\Desktop\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\net6.0\ProgrammingAssignment2.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\User\Desktop\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\net6.0\ProgrammingAssignment2.AssemblyInfoInputs.cache
+c:\Users\User\Desktop\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\net6.0\ProgrammingAssignment2.AssemblyInfo.cs
+c:\Users\User\Desktop\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\net6.0\ProgrammingAssignment2.csproj.CoreCompileInputs.cache
+c:\Users\User\Desktop\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\net6.0\ProgrammingAssignment2.dll
+c:\Users\User\Desktop\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\net6.0\refint\ProgrammingAssignment2.dll
+c:\Users\User\Desktop\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\net6.0\ProgrammingAssignment2.pdb
+c:\Users\User\Desktop\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\net6.0\ProgrammingAssignment2.genruntimeconfig.cache
+c:\Users\User\Desktop\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\net6.0\ref\ProgrammingAssignment2.dll
